@@ -1,6 +1,5 @@
 {
-    "cleanUrls": true,
-    "trailingSlash": true,
+    "cleanUrls": false,
     "rewrites": [
         {
             "source": "/test-blog/:any*",
