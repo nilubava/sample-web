@@ -7,8 +7,8 @@
     async rewrites() {
         return [
           {
-            source: "/test-blog",
-            destination: "https://gatsbystarterblogsource.gatsbyjs.io",
+            source: "/test-blog/:any*",
+            destination: "https://gatsby-blog-ruby.vercel.app/:any*",
           },
         ]
       },
