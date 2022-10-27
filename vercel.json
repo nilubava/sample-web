@@ -1,9 +1,0 @@
-{
-    "cleanUrls": false,
-    "rewrites": [
-        {
-            "source": "/test-blog/:any*",
-            "destination": "https://gatsby-blog-ruby.vercel.app/:any*"
-          }
-    ]
-}
