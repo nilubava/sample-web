@@ -8,7 +8,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <div className="max-w-5xl mx-auto antialiased">
     
 
-      <Link href="/test-blog">Test Blog</Link>
+      Destination app!
 
       <Footer />
     </div>
